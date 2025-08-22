@@ -2,7 +2,7 @@
 # Week 1 – Introduction to Security Awareness
  
 **Description:**  
-What was covered this week? Summarize key ideas in 2–3 sentences.  
+We went over Cisco module 1. Then we were told on how to make a Github account, as well with SAGE for chatgpt 
  
 **Artifacts:**  
 - Screenshot of GitHub Pages live site  
