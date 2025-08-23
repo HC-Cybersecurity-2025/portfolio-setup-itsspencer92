@@ -5,7 +5,8 @@
 We went over Cisco module 1. Then we were told on how to make a Github account, as well with SAGE for chatgpt 
  
 **Artifacts:**  
-- Screenshot of GitHub Pages live site  
+ <img width="1899" height="921" alt="OdePB6o" src="https://github.com/user-attachments/assets/83de6f7f-2963-45c3-a7bb-bb0b92dd880a" />
+
  
 **Reflection:**  
 Cybersecurity is important because somebody steals your personal information, then they could take all the money from your bank account, steal your identity, order credit cards under your name or other things like that. If a hacker steals your identity it can take months or years to fix and it could cost you thousands of dollars. When a hacker hacks into a workplace such as a bank or any business they can steal more than one users information. They can steal thousands of people personal  information instead.
